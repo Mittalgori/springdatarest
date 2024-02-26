@@ -1,2 +1,2 @@
 # springdatarest
-this is my springdatarest related  project
+this is my springdatarest related  project on Github
